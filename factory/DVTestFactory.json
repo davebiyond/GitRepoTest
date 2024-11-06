@@ -1,0 +1,9 @@
+{
+	"name": "DVTestFactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "818a592f-20dc-4687-9e70-5a2dc3a0a7a9",
+		"tenantId": "77c49e07-05b0-4fcc-adcc-ccb1af888430"
+	}
+}
